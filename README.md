@@ -49,6 +49,6 @@ Mobile interfaces with login and profile workflows.
 ## Contact
 
 - Email: hamzakhattak888@gmail.com
-- LinkedIn: https://linkedin.com/in/muhammad Hamza
+- LinkedIn: https://www.linkedin.com/in/muhammad-hamza-1138b2343
   
 
